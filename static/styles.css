@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    background-color: #FDFAF6;
+}
+
+#header{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 2%;
+    font-weight: bolder;
+    background-color: #064420;
+    color: #fff;
+}
+
+#footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 1%;
+    font-weight: bolder;
+    background-color: #064420;
+    color: #fff;
+}
+
+button{
+    display: block;
+    margin-left: 45%;
+    margin-top: 2%;
+    padding: 2%;
+    letter-spacing: 3px;
+    background-color: #064420;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+input{
+    margin: 3%;
+    width: 80%;
+    height: 30px;
+    border: 2px solid black;
+}
+#data{
+    text-align: center;
+    margin: 3%;
+    padding: 2%;
+}
+
+form{
+    height: 80%;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    background-color: #E4EFE7;
+}
